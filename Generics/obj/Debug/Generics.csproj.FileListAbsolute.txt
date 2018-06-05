@@ -1,0 +1,20 @@
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\MAIZELS\source\repos\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\MAIZELS\source\repos\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\MAIZELS\source\repos\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\MAIZELS\source\repos\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\MAIZELS\source\repos\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\MAIZELS\source\repos\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\MAIZELS\source\repos\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\bin\Debug\Generics.exe.config
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\bin\Debug\Generics.exe
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\bin\Debug\Generics.pdb
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\obj\Debug\Generics.exe
+C:\Users\СадыковаА\Desktop\Generics-master\Generics\obj\Debug\Generics.pdb
